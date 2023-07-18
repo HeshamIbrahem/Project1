@@ -3,7 +3,9 @@
 
 int main()
 {
-    printf("hello ..");
+    printf("hello world\n");
+
+    printf("hello\rworld");
 
     return 0;
 }
